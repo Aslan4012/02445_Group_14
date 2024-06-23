@@ -1,0 +1,130 @@
+﻿Race,Crimes,Violent,Non-violent
+White,"Embezzlement,Identity Theft,Cybercrime,Drug Trafficking,Murder",1,4
+White,"Embezzlement,Fraud,Cybercrime,Drug Trafficking,Arson",0,5
+White,"Bank Heist,Cybercrime,Insurance Fraud,Drug Trafficking,Art Theft",1,4
+White,"Embezzlement,Fraud,Identity Theft,Drug Trafficking,Money Laundering",0,5
+White,"Embezzlement, Insurance Fraud, Cybercrime, Identity Theft, Drug Trafficking",0,5
+White,"Embezzlement, Identity Theft, Drug Trafficking, Cybercrime, Burglary",0,5
+White,"Embezzlement, Identity Theft, Money Laundering, Cybercrime, Drug Trafficking",0,5
+White,"Bank Robbery, Identity theft, Arson*, Drug Trafficking, Fraud",2,3
+White,"Embezzlement, Identity Theft, Insurance Fraud, Drug Trafficking, Cybercrime",0,5
+White,"Embezzlement, Identity Theft, Burglary, Drug Trafficking, Fraud",0,5
+White,"Bank Robbery, Identity theft, Drug Trafficking, Cybercrime, Insurance Fraud",1,4
+White,"Embezzlement, Fraud, Cybercrime, Drug Trafficking, Identity theft",0,5
+White,"Embezzlement, Identity Theft, Arson*, Drug Trafficking, Fraud",0,5
+White,"Embezzlement, Identity Theft, Fraud, Drug Trafficking, Money Laundering",0,5
+White,"Embezzlement, Fraud, Drug Trafficking, Cybercrime, Arson*",1,4
+White,"Embezzlement, Identity Theft, Fraud, Money Laundering, Cybercrime",0,5
+White,"Embezzlement, Identity Theft, Drug Trafficking, Arson, Fraud",1,4
+White,"Embezzlement, Identity Theft, Drug Trafficking, Arson, Fraud",1,4
+White,"Embezzlement, Forgery, Hacking, Drug Trafficking, Kidnapping",1,4
+White,"Embezzlement, Identity Theft, Cybercrime, Money Laundering, Art Theft",0,5
+White,"Bank Robbery, Fraud, Cybercrime, Drug Trafficking, Embezzlement",1,4
+White,"Embezzlement, Fraud, Cybercrime, Drug Trafficking, Identity Theft",0,5
+White,"Bank Robbery, Embezzlement, Identity Theft, Drug Trafficking, Arson",2,3
+White,"Embezzlement, Identity Theft, Drug Trafficking, Arson, Fraud",1,4
+White,"Bank Robbery, Embezzlement, Identity Theft, Drug Trafficking, Money Laundering",1,4
+White,"Bank Robbery, Fraud, Cybercrime, Arson, Drug Trafficking",2,3
+White,"Embezzlement, Identity Theft, Drug Trafficking, Money Laundering, Fraud",0,5
+White,"Bank Robbery, Fraud, Drug Trafficking, Identity Theft, Arson",2,3
+White,"Bank Robbery, Identity Theft, Drug Trafficking, Cybercrime, Embezzlement",1,4
+White,"Embezzlement, Forgery, Identity Theft, Arson, Drug Trafficking",0,5
+White,"Identity Theft, Art Forgery, Embezzlement, Illegal Arms Dealing, Drug Trafficking",0,5
+White,"Embezzlement, Identity Theft, Arson, Fraud, Drug Trafficking",0,5
+White,"Embezzlement, Identity Theft, Drug Trafficking, Arson, Human Trafficking",2,3
+White,"Bank Robbery, Identity Theft, Illegal Arms Dealing, Drug Trafficking, Money Laundering",1,4
+White,"Embezzlement, Identity Theft, Drug Trafficking, Arson, Fraud",1,4
+White,"Embezzlement, Identity Theft, Drug Trafficking, Burglary, Insurance Fraud",0,5
+White,"Embezzlement, Forgery, Identity Theft, Drug Trafficking, Arson",1,4
+White,"Embezzlement, Arson, Fraud, Identity Theft, Drug Trafficking",0,5
+White,"Bank Robbery, Fraud, Embezzlement, Identity Theft, Drug Trafficking",1,4
+White,"Embezzlement, Identity Theft, Burglary, Tax Evasion, Drug Trafficking",0,5
+White,"Embezzlement, Fraud, Identity Theft, Burglary, Drug Trafficking",0,5
+White,"Bank Robbery, Identity Theft, Drug Trafficking, Fraud, Assault",2,3
+White,"Embezzlement, Identity Theft, Arson, Fraud, Drug Trafficking",1,4
+Asian,"Embezzlement, Identity Theft, Cybercrime, Smuggling, Extortion",1,4
+Asian,"Cyber theft, smuggling, corporate espionage, drug trafficking, art forgery",0,5
+Asian,"Identity theft, cybercrime, embezzlement, drug trafficking, money laundering",0,5
+Asian,"embezzlement, forgery, identity theft, drug trafficking, cybercrime",0,5
+Asian,"Bank robbery, cybercrime, drug trafficking, identity theft, art theft",1,4
+Asian,"Forgery of documents, cybercrime, human trafficking, drug trafficking, money laundering",1,4
+Asian,"Art theft, cybercrime, organized crime, bank fraud, assassination",1,4
+Asian,"Bank robbery, cybercrime, drug trafficking, human trafficking, money laundering",2,3
+Asian,"Art forgery, cybercrime, illegal wildlife trade, drug trafficking, human trafficking",1,4
+Asian,"Art theft, cyber espionage, illegal arms trafficking, fraud and embezzlement, human trafficking",1,4
+Asian,"Cybercrime, Money Laundering, Art Theft, Drug Trafficking, Kidnapping",1,4
+Asian,"Bank Robbery, Cybercrime, Smuggling, Fraud, Assassination",2,3
+Asian,"Forgery, Cybercrime, Drug Trafficking, Money Laundering, Extortion",0,5
+Asian,"Hacking and Cyber Theft, Art Forgery, Drug Trafficking, Corporate Espionage, Organized Crime",0,5
+Asian,"Cybercrime, Smuggling, Money Laundering, Fraud, Drug Trafficking",0,5
+Asian,"Hacking, Money Laundering, Drug Trafficking, Forgery, Human Trafficking",1,4
+Asian,"Embezzlement, Forgery, Drug Trafficking, Cybercrime, Kidnapping",1,4
+Asian,"Corporate Espionage, Forgery, Embezzlement, Smuggling, Cybercrime",0,5
+Asian,"Financial Fraud, Cybercrime, Smuggling, Kidnapping, Drug Trafficking",1,4
+Asian,"Art Theft, Cybercrime, Drug Trafficking, Identity Theft, Extortion",0,5
+Asian,"Bank Fraud, Cybercrime, Human Trafficking, Drug Trafficking, Money Laundering",1,4
+Asian,"Art Theft, Cybercrime, Drug Trafficking, Financial Fraud, Human Trafficking",1,4
+Asian,"Embezzlement, Cybercrime, Drug Trafficking, Human Trafficking, Counterfeiting",1,4
+Asian,"Money Laundering, Cybercrime, Drug Trafficking, Human Trafficking, Bribery and Corruptio",1,4
+Asian,"Embezzlement, Cybercrime, Drug Trafficking, Human Trafficking, Forgery",1,4
+Asian,"Bank Fraud, Cybercrime, Human Trafficking, Drug Trafficking, Forgery",2,3
+Asian,"Bank Robbery, Cybercrime, Drug Trafficking, Identity Theft, Art Theft",1,4
+Asian,"Cyber Espionage, Art Theft, Drug Trafficking, Money Laundering, Human Trafficking",1,4
+Asian,"Smuggling Contraband, Cybercrime, Money Laundering, Art Forgery, Kidnapping",1,4
+Asian,"Identity Theft, Smuggling, Corporate Espionage, Art Forgery, Bribery and Corruption",0,5
+Asian,"Embezzlement, Cybercrime, Drug Trafficking, Human Trafficking, Money Laundering",1,4
+Asian,"Embezzlement, Cybercrime, Drug Trafficking, Forgery, Bribery,",0,5
+Asian,"Embezzlement, Smuggling, Hacking, Kidnapping, Forgery",1,4
+Asian,"Cyber Fraud, Art Theft, Human Trafficking, Drug Trafficking, Money Laundering",1,4
+Asian,"Embezzlement, Cybercrime, Drug Trafficking, Human Trafficking, Fraud",1,4
+Asian,"Embezzlement, Cybercrime, Human Trafficking, Drug Trafficking, Money Laundering",1,4
+Asian,"Forgery, Embezzlement, Cybercrime, Drug Trafficking, Kidnapping",1,4
+Asian,"Cybercrime, Drug Trafficking, Money Laundering, Human Trafficking, Extortion",1,4
+Asian,"Bank Robbery, Cybercrime, Art Theft, Drug Trafficking, Money Laundering",1,4
+Asian,"Forgery, Cybercrime, Drug Trafficking, Money Laundering, Assault and Battery",1,4
+Asian,"Cyber Theft, Drug Trafficking, Money Laundering, Human Trafficking, Assassination",2,3
+Asian,"Identity Theft, Corporate Espionage, Art Forgery, Drug Trafficking, Cybercrime",0,5
+Asian,"Embezzlement, Cybercrime, Drug Trafficking, Human Trafficking, Art Theft",1,4
+Afr. Am,"Bank Robbery,Cybercrime,Drug Trafficking,Identity Theft,Arson",1,4
+Afr. Am,"Robbery,Identity Theft,Drug Trafficking,Assault,Fraud",2,3
+Afr. Am,"Burglary,Identity Theft,Drug Trafficking,Assault,Embezzlement",1,4
+Afr. Am,"Bank Robbery,Identity Theft,Drug Trafficking,Burglary,Assault and Battery",2,3
+Afr. Am,"Bank Robbery,Identity Theft,Drug Trafficking,Assault,Burglary",2,3
+Afr. Am,"Armed Robbery,Fraud,Drug Trafficking,Burglary,Assault",2,3
+Afr. Am,"Robbery,Fraud,Drug Trafficking,Assault,Burglary",2,3
+Afr. Am,"Burglary,Fraud,Drug Trafficking,Assault,Money Laundering",1,4
+Afr. Am,"Armed Robbery,Drug Trafficking,Grand Theft Auto,Burglary,Assault",2,3
+Afr. Am,"Bank robbery, Identity theft, Drug Trafficking, Burglary, Assault",2,3
+Afr. Am,"Robbery, Fraud, Drug Trafficking, Burglary, Assault",2,3
+Afr. Am,"Bank Robbery, Identity Theft, Drug Trafficking, Arson, Assault and Battery",2,3
+Afr. Am,"Burglary, Identity Theft, Drug Trafficking, Assault, Money Laundering",1,4
+Afr. Am,"Robbery, Fraud, Drug Trafficking, Assault, Burglary",2,3
+Afr. Am,"Bank Robbery, Identity Theft, Drug Trafficking, Burglary, Assault and Battery",2,3
+Afr. Am,"Robbery, Fraud, Drug Trafficking, Assault, Burglary",2,3
+Afr. Am,"Bank Robbery, Cyber Fraud, Drug Trafficking, Identity Theft, Armed Robbery",2,3
+Afr. Am,"Armed Robbery, Drug Trafficking, Burglary, Fraud, Assault",2,3
+Afr. Am,"Burglary, Drug Trafficking, Assault, Credit Card Fraud, Car Theft",1,4
+Afr. Am,"Armed Robbery, Fraud, Drug Trafficking, Burglary, Assault",2,3
+Afr. Am,"Bank Robbery, Drug Trafficking, Cybercrime, Identity Theft, Arson",2,3
+Afr. Am,"Burglary, Fraud, Drug Trafficking, Assault Auto Theft",1,4
+Afr. Am,"Bank Robbery, Identity Theft, Drug Trafficking, Art Forgery, Assault",2,3
+Afr. Am,"Robbery, Drug Trafficking, Assault, Fraud, Burglary",2,3
+Afr. Am,"Robbery, Identity Theft, Drug Trafficking, Fraud, Assault",2,3
+Afr. Am,"Burglary, Drug Trafficking, Fraud, Assault, Illegal Possession of a Firearm",1,4
+Afr. Am,"Bank Robbery, Identity Theft, Drug Trafficking, Arson, Assault and Battery",3,2
+Afr. Am,"Robbery, Fraud, Drug Trafficking, Assault, Burglary",2,3
+Afr. Am,"Bank Robbery, Identity Theft, Drug Trafficking, Arson, Assault and Battery",3,2
+Afr. Am,"Bank Robbery, Fraud, Drug Trafficking, Armed Robbery, Identity Theft",2,3
+Afr. Am,"Bank Robbery, Drug Trafficking, Cybercrime, Fraud, Assault",2,3
+Afr. Am,"Robbery, Drug Trafficking, Identity Theft, Assault, Arson",3,2
+Afr. Am,"Bank Robbery, Drug Trafficking, Fraud, Assault, Burglary",2,3
+Afr. Am,"Robbery, Fraud, Drug Trafficking, Burglary, ASsault",2,3
+Afr. Am,"Burglary, Fraud, Drug Trafficking, Assault, Vandalism",1,4
+Afr. Am,"Bank Robbery, Identity Theft, Drug Trafficking, Armed Robbery, Fraud",2,3
+Afr. Am,"Armed Robbery, Drug Trafficking, Fraud, Burglary, Assault",2,3
+Afr. Am,"Burglary, Drug Trafficking, Fraud, Assault, Carjacking",1,4
+Afr. Am,"Burglary, Fraud, Drug Trafficking, Assault, Arson",2,3
+Afr. Am,"Armed Robbery, Fraud, Drug Trafficking, Assault, Burglary",2,3
+Afr. Am,"Bank Robbery, Identity Theft, Drug Trafficking, Burglary, Embezzlement",1,4
+Afr. Am,"Burglary, Fraud, Drug Trafficking, Assault, Car Theft",1,4
+Afr. Am,"Robbery, Fraud, Drug Trafficking, Assault, Burglary",2,3
